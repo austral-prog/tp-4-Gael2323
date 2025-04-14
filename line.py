@@ -4,10 +4,10 @@ def line():
     X1 = float(input("Ingrese el coeficiente X1: "))
     X2 = float(input("Ingrese el coeficiente X2: "))
     
-    print(f"El coeficiente de la ecuación de la recta es: {A}")
-    print(f"El coeficiente de la ecuación de la recta es: {B}")
-    print(f"El coeficiente de la ecuación de la recta es: {X1}")
-    print(f"El coeficiente de la ecuación de la recta es: {X2}\n")
+    print(f"El coeficiente A de la ecuación de la recta es: {A}")
+    print(f"El coeficiente B de la ecuación de la recta es: {B}")
+    print(f"El coeficiente X1de la ecuación de la recta es: {X1}")
+    print(f"El coeficiente X2de la ecuación de la recta es: {X2}\n")
     
     print("Para la siguiente ecuacion:")
     print(f"\tY = {A}X + {B}\n")
