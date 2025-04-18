@@ -18,4 +18,4 @@ def line():
     print(f"\tP2 ({X2}, {A * X2 +B})")
     
     dist = ((X2 - X1)**2 + (Y2 - Y1)**2)**0.5
-    print(f"\n La distancia entre ellos es: {dist}")
+    print(f"\nLa distancia entre ellos es: {dist}")
