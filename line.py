@@ -11,7 +11,7 @@ def line():
     print("Para la siguiente ecuación:")
     print(f"\tY = {A}X + {B}\n")
     
-    print("Dados los siguientes puntos" )
+    print("Dados los siguientes puntos:" )
     Y1 = A * X1 + B
     Y2 = A * X2 + B 
     print(f"\t P1 ({X1}, {A * X1 +B})")
